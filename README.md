@@ -1,2 +1,2 @@
-# Programaci-n-Visual
+# Programacion-Visual
 Actividades de programación visual.
